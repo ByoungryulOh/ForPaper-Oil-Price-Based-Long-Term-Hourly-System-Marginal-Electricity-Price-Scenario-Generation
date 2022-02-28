@@ -1,5 +1,6 @@
 # ForPaper-Oil-Price-Based-Long-Term-Hourly-System-Marginal-Electricity-Price-Scenario-Generation
 ABSTRACT 
+
 This dataset contains the hourly system marginal price (SMP) of South Korea and daily fuel prices (WTI, Henry Hub, Brent, NBP) data from 2002 to 2020, and the oil price scenarios from 2019 to 2050 are also attached.
 
 The dataset is for the letter entitled: "Fuel Price Based Long-Term Hourly System Marginal Price Scenario Generation".
